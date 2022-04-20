@@ -7,7 +7,6 @@ $ceu = array( "Italy"=>"Rome", "Luxembourg"=>"Luxembourg", "Belgium"=> "Brussels
 $values = array();
 foreach($ceu as $k => $v)
 {
-  $v = $ceu[$k];
   $values[] = $v;
 }
 
